@@ -1,0 +1,14 @@
+D:\vscode_projects\bono_programable\bin\Debug\net10.0\bono_programable.exe
+D:\vscode_projects\bono_programable\bin\Debug\net10.0\bono_programable.deps.json
+D:\vscode_projects\bono_programable\bin\Debug\net10.0\bono_programable.runtimeconfig.json
+D:\vscode_projects\bono_programable\bin\Debug\net10.0\bono_programable.dll
+D:\vscode_projects\bono_programable\bin\Debug\net10.0\bono_programable.pdb
+D:\vscode_projects\bono_programable\obj\Debug\net10.0\bono_programable.GeneratedMSBuildEditorConfig.editorconfig
+D:\vscode_projects\bono_programable\obj\Debug\net10.0\bono_programable.AssemblyInfoInputs.cache
+D:\vscode_projects\bono_programable\obj\Debug\net10.0\bono_programable.AssemblyInfo.cs
+D:\vscode_projects\bono_programable\obj\Debug\net10.0\bono_programable.csproj.CoreCompileInputs.cache
+D:\vscode_projects\bono_programable\obj\Debug\net10.0\bono_programable.dll
+D:\vscode_projects\bono_programable\obj\Debug\net10.0\refint\bono_programable.dll
+D:\vscode_projects\bono_programable\obj\Debug\net10.0\bono_programable.pdb
+D:\vscode_projects\bono_programable\obj\Debug\net10.0\bono_programable.genruntimeconfig.cache
+D:\vscode_projects\bono_programable\obj\Debug\net10.0\ref\bono_programable.dll
