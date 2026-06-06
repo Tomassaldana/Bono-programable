@@ -9,7 +9,7 @@ Una potente herramienta de consola desarrollada en **C#** diseñada para resolve
 Esta aplicación permite realizar seis tipos de operaciones fundamentales:
 
 1.  **Cálculo de Factorial ($n!$):** Implementación recursiva con visualización del producto.
-2.  **Permutación Simple ($P(n, r)$):** Cálculo de ordenaciones de $r$ elementos de un conjunto de $n$.
+2.  **Permutación Simple (P(n, r)):** Cálculo de ordenaciones de $r$ elementos de un conjunto de $n$.
 3.  **Comparativa Automática:** Función rápida para comparar magnitudes entre diferentes permutaciones ($P(10,3)$ vs $P(20,5)$).
 4.  **Análisis Multinomial (Palabras):** Calcula cuántas palabras distintas se pueden formar con las letras de una palabra ingresada (ej: "BANANA"), identificando frecuencias automáticamente.
 5.  **Análisis Multinomial (Cantidades):** Permite ingresar grupos de objetos directamente (ej: 4 rojos, 3 azules) para calcular sus formas de ordenación.
