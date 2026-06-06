@@ -72,3 +72,22 @@ Procedimiento:
   = 720 / 12
 
 Resultado: 60 palabras distintas pueden formarse.
+
+## 📝 Ejemplo de Interacción
+
+```text
+=== Calculadora de Permutaciones ===
+Oprima 1 para calcular n!
+Oprima 2 para calcular P(n, r)
+Oprima 3 para comparar P(10,3) y P(20,5)
+
+> 2
+Ha escogido calcular P(n, r).
+Ingrese n: 5
+Ingrese r: 3
+
+Procedimiento:
+  P(n, r) = n! / (n - r)!
+  P(5, 3) = 5! / (5 - 3)!
+  P(5, 3) = 120 / 2
+Resultado: P(5, 3) = 60
